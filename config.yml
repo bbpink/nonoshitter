@@ -1,0 +1,6 @@
+---
+data/: []
+users/your_twitterbot_account:
+  token: your_token
+  secret: your_secret
+login/: your_twitterbot_account
