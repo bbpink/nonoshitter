@@ -20,8 +20,10 @@ And modify the config file(/config.yml) to set your OAuth token.
 ## usage
 You should check the paths at the shell script file(bin/nono.sh) before execution.  
 Then execute it like following.  
+
     cd nonoshitter
     sh bin/nono.sh
+
 You can use the cron for more convinience.
 
 ## copyright
