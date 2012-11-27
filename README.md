@@ -18,13 +18,13 @@ nonoshitter tweets abusive words.
 And modify the config file(/config.yml) to set your OAuth token.
 
 ## usage
-You should check the paths at the shell script file(bin/nono.sh) before execution.
-Then execute it like following.
+You should check the paths at the shell script file(bin/nono.sh) before execution.  
+Then execute it like following.  
     cd nonoshitter
     sh bin/nono.sh
 You can use the cron for more convinience.
 
 ## copyright
-nonoshitter consists of greate bot library [twbot2.rb](http://maraigue.hhiro.net/twbot/index.php?lang=en "twbot2.rb").
-And you can use nonoshitter under [new BSD License](http://opensource.org/licenses/BSD-3-Clause "new BSD License").
+nonoshitter consists of greate bot library [twbot2.rb](http://maraigue.hhiro.net/twbot/index.php?lang=en "twbot2.rb").  
+And you can use nonoshitter under [new BSD License](http://opensource.org/licenses/BSD-3-Clause "new BSD License").  
 &copy;2012- [bbpink](https://twitter.com/bbpink "bbpink")
